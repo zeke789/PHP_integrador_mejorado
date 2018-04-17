@@ -1,0 +1,56 @@
+
+						<div class="comentario">
+							<p><strong>Fecha: </strong><br />29/06/2017 17:14:46</p>
+							<p><strong>De: </strong><br />admin</p>
+							<p><strong>Comentario: </strong><br />jghjh</p>
+						</div>
+						<div class="comentario">
+							<p><strong>Fecha: </strong><br />29/06/2017 16:12:56</p>
+							<p><strong>De: </strong><br />juanpa789</p>
+							<p><strong>Comentario: </strong><br />gdfgdfghdfg dfg dfg dfg</p>
+						</div>
+						<div class="comentario">
+							<p><strong>Fecha: </strong><br />29/06/2017 16:12:23</p>
+							<p><strong>De: </strong><br />juanpa789</p>
+							<p><strong>Comentario: </strong><br />hola arfsd fsdfsd</p>
+						</div>
+						<div class="comentario">
+							<p><strong>Fecha: </strong><br />09/06/2017 19:13:18</p>
+							<p><strong>De: </strong><br />mensaje repetido</p>
+							<p><strong>Comentario: </strong><br />este mensaje lo estoy enviando varias veces...</p>
+						</div>
+						<div class="comentario">
+							<p><strong>Fecha: </strong><br />09/06/2017 19:13:10</p>
+							<p><strong>De: </strong><br />mensaje repetido</p>
+							<p><strong>Comentario: </strong><br />este mensaje lo estoy enviando varias veces...</p>
+						</div>
+						<div class="comentario">
+							<p><strong>Fecha: </strong><br />09/06/2017 19:12:55</p>
+							<p><strong>De: </strong><br />mensaje repetido</p>
+							<p><strong>Comentario: </strong><br />este mensaje lo estoy enviando varias veces...</p>
+						</div>
+						<div class="comentario">
+							<p><strong>Fecha: </strong><br />07/06/2017 20:40:55</p>
+							<p><strong>De: </strong><br />Facundo</p>
+							<p><strong>Comentario: </strong><br />hola que tal!!</p>
+						</div>
+						<div class="comentario">
+							<p><strong>Fecha: </strong><br />07/06/2017 20:40:07</p>
+							<p><strong>De: </strong><br />Facundo</p>
+							<p><strong>Comentario: </strong><br />hola que tal!!</p>
+						</div>
+						<div class="comentario">
+							<p><strong>Fecha: </strong><br />07/06/2017 20:27:32hs</p>
+							<p><strong>De: </strong><br />Luis</p>
+							<p><strong>Comentario: </strong><br />este es el nuevo mensaje, escrito por Luis</p>
+						</div>
+						<div class="comentario">
+							<p><strong>Fecha: </strong><br />07/06/2017 20:21:51hs</p>
+							<p><strong>De: </strong><br />Juan de nuevo</p>
+							<p><strong>Comentario: </strong><br />soy yo otra vez!!!</p>
+						</div>
+						<div class="comentario">
+							<p><strong>Fecha: </strong><br />07/06/2017 20:20:34hs</p>
+							<p><strong>De: </strong><br />Juan</p>
+							<p><strong>Comentario: </strong><br />hola, estoy probando los comentarios...</p>
+						</div>
